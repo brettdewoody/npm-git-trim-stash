@@ -1,0 +1,31 @@
+{
+  "name": "git-trim-stash",
+  "version": "1.0.0",
+  "description": "A git utility for trimming that stash.",
+  "homepage": "https://github.com/brettdewoody",
+  "author": {
+    "name": "Brett DeWoody",
+    "email": "brettdewoody@gmail.com",
+    "url": "http://brettdewoody.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/brettdewoody/npm-git-trim-stash.git"
+  },
+  "bugs": {
+    "url": "https://github.com/brettdewoody/npm-git-trim-stash/issues"
+  },
+  "scripts": {
+    "postinstall": "bin/install.js"
+  },
+  "keywords": [
+    "git",
+    "cli",
+    "stash",
+    "utils"
+  ],
+  "bin": {
+    "git-trim-stash": "bin/git-trim-stash.js"
+  },
+  "license": "ISC"
+}
