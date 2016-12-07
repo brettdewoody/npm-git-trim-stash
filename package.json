@@ -1,6 +1,6 @@
 {
   "name": "git-trim-stash",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A git utility for trimming that stash.",
   "homepage": "https://github.com/brettdewoody",
   "author": {
