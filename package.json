@@ -15,9 +15,6 @@
   "bugs": {
     "url": "https://github.com/brettdewoody/npm-git-trim-stash/issues"
   },
-  "scripts": {
-    "postinstall": "bin/install.js"
-  },
   "keywords": [
     "git",
     "cli",
