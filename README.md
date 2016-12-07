@@ -15,7 +15,7 @@ A command-line `git` utility for trimming that stash.
 
 Let's say you have 37 stashes in your current repo.
 
-    > git trim-stash 10
+    > git-trim-stash 10
 
     27 stashes deleted.
 
