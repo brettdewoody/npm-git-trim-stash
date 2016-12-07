@@ -5,7 +5,7 @@ A command-line `git` utility for trimming that stash.
 
 ## Installation
 
-    npm install npm-git-trim-stash -g
+    npm install git-trim-stash -g
 
 ## Usage
 
